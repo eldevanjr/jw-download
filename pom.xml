@@ -43,7 +43,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.jkawflex.upgrade.DownloadManager</mainClass>
+                            <mainClass>com.jwdownload.upgrade.DownloadManager</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
